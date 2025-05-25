@@ -2,7 +2,24 @@
   "tasks": [
     {
       "id": 1,
-      "title": "Watching movies"
+      "title": "Watching movies",
+      "status": "Completed",
+      "description": "Watching movies is a great way to relax and enjoy storytelling.",
+      "dueDate": "2025-05-25T14:30:00.000Z"
+    },
+    {
+      "id": 2,
+      "title": "Training",
+      "status": "Incompleted",
+      "description": "Watching movies is a great way to relax and enjoy storytelling.",
+      "dueDate": "2025-05-25T14:30:00.000Z"
+    },
+    {
+      "id": 3,
+      "title": "Doing homework",
+      "status": "Completed",
+      "description": "Watching movies is a great way to relax and enjoy storytelling.",
+      "dueDate": "2025-05-25T14:30:00.000Z"
     }
   ]
 }
